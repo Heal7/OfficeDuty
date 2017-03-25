@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>OfficeDuty</title>
+	<meta name="description" content="OfficeDuty">
+	<link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+	<link rel="stylesheet" href="login.css">
+</head>
+<body>
+	<div class="container">
+		<div class="header clearfix">
+			<nav>
+				<ul class="nav nav-tabs pull-right">
+					<li role="presentation" class="active"><a href="login.html">登录</a></li>
+				</ul>
+			</nav>
+			<h3 class="text-muted">预约值班</h3>
+		</div>
+
+		<form class="form-login">
+			<h2 class="form-login-heading">登录</h2>
+			<label for="inputStuid" class="sr-only">学号</label>
+			<input type="stuid" id="inputStuid" class="form-control" placeholder="学号" required autofocus>
+			<label for="inputStuname" class="sr-only">姓名</label>
+			<input type="stuname" id="inputStuname" class="form-control" placeholder="姓名" required>
+			<button class="btn btn-lg btn-primary btn-block" type="submit">登录</button>
+		</form>
+	</div>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="login.js"></script>
+
+</body>
+</html>

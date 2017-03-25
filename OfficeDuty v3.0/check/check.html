@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>office-duty</title>
+	<meta name="description" content="OfficeDuty">
+	<!-- LeanCloud -->
+    <script src="https://cdn1.lncld.net/static/js/av-min-1.2.1.js"></script>
+	<link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+	<link rel="stylesheet" href="check.css">
+</head>
+<body>
+	<div class="container">
+
+		<div class="header clearfix">
+			<nav>
+				<ul class="nav nav-tabs pull-right">
+					<li role="presentation"><a href="#"></a></li>
+					<li role="presentation"><a href="#">退出</a></li>
+				</ul>
+			</nav>
+			<h3 class="text-muted">排班情况</h3>
+
+		</div>
+
+		<table id="office-duty">
+			<caption>大大~<br>请点击表格，获得返回值则成功预约，再点击即取消。</caption>
+			<tr>
+				<th>(>_<)</th>
+				<th>Mon</th>
+				<th>Tue</th>
+				<th>Wed</th>
+				<th>Thu</th>
+				<th>Fri</th>
+				<th>Sat</th>
+				<th>Sun</th>
+			</tr>
+			<tr>
+				<th class="th">
+					<p class="time1">8:00</p>
+					<p>AM1</p>
+					<p class="time2">9:35</p>
+				</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<th class="th">
+					<p class="time1">10:05</p>
+					<p>AM2</p>
+					<p class="time2">11:40</p>
+				</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<th class="th">
+					<p class="time1">14:00</p>
+					<p>PM1</p>
+					<p class="time2">15:35</p>
+				</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+				<th class="th">
+					<p class="time1">16:00</p>
+					<p>PM1</p>
+					<p class="time2">17:35</p>
+				</th>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+		</table>
+
+		<div class="check">
+			<button id="btn-check">今日签到</button>
+		</div>	
+	</div>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="./../initLeanCloud.js"></script>
+	<script src="./../reuseMethods.js"></script>
+	<script src="check.js"></script>
+</body>
+</html>
