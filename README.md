@@ -12,5 +12,5 @@
 
 BY heal7
 
-![image](https://github.com/heal7/OfficeDuty/raw/master/OfficeDuty/login.png)
-![image](https://github.com/heal7/OfficeDuty/raw/master/OfficeDuty/OfficeDuty.png)
+![image](http://github.com/Heal7/OfficeDuty/raw/master/login.png)
+![image](http://github.com/Heal7/OfficeDuty/raw/master/OfficeDuty.png)
