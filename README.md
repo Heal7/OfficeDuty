@@ -1,13 +1,15 @@
-°ì¹«ÊÒÖµ°àÇ©µ½±í
+åŠžå…¬å®¤å€¼ç­ç­¾åˆ°è¡¨
 
-ºó¶ËÔÝÊ±ÓÃleancloudÊµÏÖ
+åŽç«¯æš‚æ—¶ç”¨leancloudå®žçŽ°
 
-À¶ÑÀÇ©µ½¹¦ÄÜ»¹Î´ÊµÏÖ£¬´ýÑ§Ï°
+è“ç‰™ç­¾åˆ°åŠŸèƒ½è¿˜æœªå®žçŽ°ï¼Œå¾…å­¦ä¹ 
 
-Ç°Ç°ºóºó£¬·´·´¸´¸´ÐÞ¸ÄÁËÈý´Î£¬×ÜËãÊÇÓÐÁËÒ»¶ª¶ª³É¹û
+å‰å‰åŽåŽï¼Œååå¤å¤ä¿®æ”¹äº†ä¸‰æ¬¡ï¼Œæ€»ç®—æ˜¯æœ‰äº†ä¸€ä¸¢ä¸¢æˆæžœ
 
-µ«ÈÔÓÐºÜ¶àÎÊÌâÐèÒª¸Ä½ø£¬¹¦ÄÜÐèÒªÓÅ»¯
+ä½†ä»æœ‰å¾ˆå¤šé—®é¢˜éœ€è¦æ”¹è¿›ï¼ŒåŠŸèƒ½éœ€è¦ä¼˜åŒ–
 
-ÔÝÇÒÕâÑù£¬³õ²½°æ  ---- 2017-03-25 
+æš‚ä¸”è¿™æ ·ï¼Œåˆæ­¥ç‰ˆ  ---- 2017-03-25 
 
 BY heal7
+
+[!mage](https://github.com/heal7/OfficeDuty/raw/master/OfficeDuty/login.png
