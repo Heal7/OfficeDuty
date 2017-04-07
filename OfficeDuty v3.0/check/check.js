@@ -249,7 +249,7 @@ function logout(){
 $(function(){
 	if(localStorage.getItem('stu_id')){
 		reserveDuty();
-		window.setInterval("showTable()",1000);//每隔1000ms调用一个函数，请求数据渲染表格。如何写当服务器数据更新时实时更新页面数据，有待学习
+		// window.setInterval("showTable()",1000);//每隔1000ms调用一个函数，请求数据渲染表格。如何写当服务器数据更新时实时更新页面数据，有待学习
 		btnCheck();
 		showBtn();
 		logout();
