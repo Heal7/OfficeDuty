@@ -12,4 +12,4 @@
 
 BY heal7
 
-[!mage](https://github.com/heal7/OfficeDuty/raw/master/OfficeDuty/login.png
+[!mage](https://github.com/heal7/OfficeDuty/raw/master/OfficeDuty/login.png)
